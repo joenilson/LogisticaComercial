@@ -1,0 +1,19 @@
+{
+  "name": "joenilson/logisticacomercial",
+  "description": "plugin de Logística Comercial para FacturaScripts",
+  "minimum-stability": "stable",
+  "license": "LGPL-2.1-or-later",
+  "authors": [
+    {
+      "name": "joenilson",
+      "email": "joenilson@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "config": {
+    "platform": {
+      "php": "7.4"
+    }
+  }
+}
